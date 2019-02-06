@@ -1,0 +1,27 @@
+Project Name:Py-Drawer
+Description:
+Our product will have following key features which will make it unique and classic:-
+1. A tool for Duplicacy Checking
+2. A tool for selecting any kind of csv file dynamically
+3. writing and reading the csv file
+Now main features :-
+1. Our app can analyze the data from csv file and can give you some statistcal results to you.
+2. You can get graphical view of data selected by you
+
+Future Developments:-
+1. Using Django making it fit for any size of screen.
+2. Using Some Ml tools some basic predication can be shown.
+
+Technical Description:
+		-tkinter module
+		-csv
+		-pandas
+		-numpy
+		-skitlearn
+		-matplot.lib
+		-django(In future version of our product)
+
+Team:-
+Py-Doodlers
+(Akanksha Singh 1610991059)
+(Anirudh Mishra 1610991110)
